@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gasparmia/exemplenodejscours.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gasparmia/exemplenodejscours/issues"
+  },
+  "homepage": "https://github.com/Gasparmia/exemplenodejscours#readme"
 }
